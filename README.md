@@ -10,3 +10,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## About Me
 
+Hi there! I'm Richard John Reji. I work on data-focused projects, to strengthen my analytical and technical capabilities.
